@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![motto](https://belly-generator-1317114531.cos.ap-guangzhou.myqcloud.com/belly_gallery/2024/belly_motto.svg)
 <!--
 **shuaidaia/shuaidaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
