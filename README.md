@@ -1,4 +1,4 @@
-![motto](https://belly-1317114531.cos.ap-guangzhou.myqcloud.com/public/belly_motto3.svg)
+![motto](https://belly-1317114531.cos.ap-guangzhou.myqcloud.com/public/belly_motto2.svg)
 <!--
 **shuaidaia/shuaidaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
